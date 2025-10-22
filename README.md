@@ -14,7 +14,8 @@ Na frente de tecnologia, impulsionamos eficiência operacional e experiência do
 
 
 ## 🌐 Conecte-se Conosco
-[![Website](https://www.grupolinhares.com.br/)  
-[![LinkedIn]](https://www.linkedin.com/company/grupo-linhares/)  
-[![Instagram](https://www.instagram.com/grupolinhares/)  
+[![🌍 Site](https://img.shields.io/badge/Site-Grupo%20Linhares-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://www.grupolinhares.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grupo%20Linhares-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/grupo-linhares/)
+[![Instagram](https://img.shields.io/badge/Instagram-@grupolinhares-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/grupolinhares/)
+ 
 
