@@ -1,4 +1,4 @@
-# 🚀 Grupo Linhares Tech
+# 🚀 Grupo Linhares
 
 Inovação e tecnologia acelerando negócios automotivos no Brasil.
 
