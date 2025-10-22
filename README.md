@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Grupo Linhares Tech
 
-<!--
-**linharesdev-collab/linharesdev-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inovação e tecnologia acelerando negócios automotivos no Brasil.
 
-Here are some ideas to get you started:
+## 🏢 Quem Somos
+O **Grupo Linhares** é um dos maiores grupos de concessionárias do Nordeste, com atuação nas marcas Honda, BYD, Hyundai e Renault.  
+Na frente de tecnologia, impulsionamos eficiência operacional e experiência do cliente por meio de **automação, IA e cultura de dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Atuação
+- 🛠️ Automação de Processos (RPA)
+- 📊 Business Intelligence & Analytics
+- 🤖 Inteligência Artificial e Inovação
+- 🧭 Plataformas & Produtos Digitais
+
+
+## 🌐 Conecte-se Conosco
+[![Website](https://www.grupolinhares.com.br/)  
+[![LinkedIn]](https://www.linkedin.com/company/grupo-linhares/)  
+[![Instagram](https://www.instagram.com/grupolinhares/)  
+
